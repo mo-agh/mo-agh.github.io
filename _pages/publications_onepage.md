@@ -11,82 +11,39 @@ More details on [Google Scholar](https://scholar.google.com/citations?hl=en&user
 <u>Mohammad Aghdami-Nia</u>, Reza Shah-Hosseini, Amirhossein Rostami, Saeid Homayouni\
 *International Journal of Applied Earth Observation and Geoinformation (2022)*\
 [article](https://www.sciencedirect.com/science/article/pii/S0303243422001118) | 
+[pdf](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.pdf)
 
 **Active Fire Detection from Landsat-8 Imagery Using Deep Multiple Kernel Learning**\
 Amirhossein Rostami, Reza Shah-Hosseini, Shabnam Asgari, Arastou Zarei, <u>Mohammad Aghdami-Nia</u>, Saeid Homayouni\
 *Remote Sensing (2022)*\
 [article](https://www.mdpi.com/2072-4292/14/4/992) | 
+[pdf](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.pdf)
 
 **Effect of Transferring Pre-Trained Weights on a Siamese Change Detection Network**\
 <u>Mohammad Aghdami-Nia</u>, Reza Shah-Hosseini, Mohammad Salmani\
 *ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (2023)*\
 [article](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.html) | 
+[pdf](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.pdf)
 
+**Surrogate Modeling of MODTRAN Physical Radiative Transfer Code Using Deep-Learning Regression**\
+<u>Mohammad Aghdami-Nia</u>, Reza Shah-Hosseini, Saeid Homayouni, Amirhossein Rostami, Nima Ahmadian\
+*Environmental Sciences Proceedings (2023)*\
+[article](https://www.mdpi.com/2673-4931/29/1/16) | 
+[pdf](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.pdf)
 
-**A high-resolution canopy height model of the Earth**\
-<u>Nico Lang</u>, Walter Jetz, Konrad Schindler, Jan Dirk Wegner\
-*Nature Ecology and Evolution* (2023)\
-[article](https://www.nature.com/articles/s41559-023-02206-6) | 
-[arxiv](https://arxiv.org/pdf/2204.08322.pdf) | 
-[project website](https://langnico.github.io/globalcanopyheight/) |
-[explore maps](https://nlang.users.earthengine.app/view/global-canopy-height-2020) | 
-[code](https://github.com/langnico/global-canopy-height-model)
+**Mapping Global Forest Canopy Height Through Fusion of GEDI and ICESat-2 Measurements**\
+Lin Xiong, John David Armston, Ralph Dubayah, Mikhail Urbazaev, Tiago de Conto, David Minor, <u>Mohammad Aghdami-Nia</u>\
+*AGU24*\
+[article](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1549324) 
 
-**The overlooked contribution of trees outside forests to tree cover and woody biomass across Europe**
-Siyu Liu, Martin Brandt, Thomas Nord-Larsen, Jerome Chave, Florian Reiner, <u>Nico Lang</u>,
-Xiaoye Tong, Philippe Ciais, Christian Igel, Adrian Pascual, Juan Guerra-Hernandez, Sizhuo Li, 
-Maurice Mugabowindekwe, Sassan Saatchi, Yuemin Yue, Zhengchao Chen, RasmusFensholt\
-*Science Advances* (2023)\
-[article](https://doi.org/10.1126/sciadv.adh4097) | 
-[download maps](https://doi.org/10.5281/zenodo.8154445)
+**Sentinel-1 Polarization Comparison for Flood Segmentation Using Deep Learning**\
+Mohammadali Abbasi, Reza Shah-Hosseini, <u>Mohammad Aghdami-Niaa</u>\
+*International Electronic Conference on Geosciences (2023)*\
+[article](https://www.mdpi.com/2673-4931/29/1/16) | 
+[pdf](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.pdf)
 
-
-**Cocoa plantations are associated with deforestation in Côte d’Ivoire and Ghana**\
-Nikolai Kalischek, <u>Nico Lang</u>, Cécile Renier, Rodrigo Caye Daudt, Thomas Addoah, William Thompson, Wilma J. Blaser-Hart, Rachael Garrett, Konrad Schindler, Jan D. Wegner\
-*Nature Food* (2023)\
-[article](https://doi.org/10.1038/s43016-023-00751-8) | 
-[code](https://github.com/D1noFuzi/cocoamapping) |
-[explore maps](https://nk.users.earthengine.app/view/cocoa-map) 
-
-**Doctoral Thesis: Mapping Vegetation Height — Probabilistic Deep Learning for Global Remote Sensing**\
-Nico Lang\
-Committee: Prof. Dr. Konrad Schindler (ETH Zurich), 
-Prof. Dr. Jan Dirk Wegner (University of Zurich), 
-Prof. Dr. Walter Jetz (Yale University),
-Dr. Habil. Bertrand Le Saux (European Space Agency)\
-[pdf](https://doi.org/10.3929/ethz-b-000554994)
-
-**High carbon stock mapping at large scale with optical satellite imagery and spaceborne LIDAR**\
-<u>Nico Lang</u>, Konrad Schindler, Jan Dirk Wegner\
-*arXiv* (2021)\
-[pdf](https://arxiv.org/pdf/2107.07431.pdf) | 
-[explore maps](https://nlang.users.earthengine.app/view/canopy-height-and-carbon-stock-southeast-asia-2020) | 
-[download maps](http://doi.org/10.5281/zenodo.5012448)
-
-**Global canopy height regression and uncertainty estimation from GEDI LIDAR waveforms with deep ensembles**\
-<u>Nico Lang</u>, Nikolai Kalischek, John Armston, Konrad Schindler, Ralph Dubayah, Jan Dirk Wegner\
-*Remote Sensing of Environment* (2021)\
-[pdf](https://doi.org/10.1016/j.rse.2021.112760) | 
-[code](https://github.com/langnico/GEDI-BDL) | 
-[demo dataset](https://share.phys.ethz.ch/~pf/nlangdata/GEDI_BDL_demo.zip) | 
-[download map]( https://doi.org/10.5281/zenodo.5112904)
-
-**GRAINet: mapping grain size distributions in river beds from UAV images with convolutional neural networks**\
-<u>Nico Lang</u>, Andrea Irniger, Agnieszka Rozniak, Roni Hunziker, Jan Dirk Wegner, Konrad Schindler\
-*Hydrology and Earth System Sciences* (2021)\
-[pdf](https://doi.org/10.5194/hess-25-2567-2021) | 
-[code](https://github.com/langnico/GRAINet) | 
-[demo dataset](https://share.phys.ethz.ch/~pf/nlangdata/GRAINet_demo_data.zip)
-
-**Country-wide high-resolution vegetation height mapping with Sentinel-2**\
-<u>Nico Lang</u>, Konrad Schindler, Jan Dirk Wegner\
-*Remote Sensing of Environment* (2019)\
-[pdf](https://arxiv.org/pdf/1904.13270.pdf) | 
-[download maps](https://share.phys.ethz.ch/~pf/nlangdata/gabon_canopy_height_2017.zip)
-
-**From Google Maps to a Fine-Grained Catalog of Street trees**\
-Steve Branson, Jan Dirk Wegner, David Hall, <u>Nico Lang</u>, Konrad Schindler, Pietro Perona\
-*ISPRS Journal of Photogrammetry and Remote Sensing* (2018)\
-**[AWARDED BEST PAPER OF THE ISPRS JOURNAL IN 2018](https://www.isprs.org/society/awards/helava/2018.aspx)**\
-[pdf](https://arxiv.org/pdf/1910.02675.pdf) | 
-[project website](https://registree.ethz.ch/)
+**Deep-Learning-Based Edge Detection for Improving Building Footprint Extraction from Satellite Images**\
+Nima Ahmadian, Amin Sedaghat, Nazila Mohammadi, <u>Mohammad Aghdami-Niaa</u>\
+*Environmental Sciences Proceedings (2023)*\
+[article](https://www.mdpi.com/2673-4931/29/1/61) | 
+[pdf](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.pdf)
