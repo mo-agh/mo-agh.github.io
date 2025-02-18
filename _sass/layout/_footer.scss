@@ -5,24 +5,13 @@
 .page__footer {  
   @include clearfix;  
   float: left;  
-  margin-left: 0;  
-  margin-right: 0;  
   width: 100%;  
   clear: both;  
-
-  /* sticky footer fix start */  
-  position: relative; /* Changed from absolute to prevent extra space */  
-  bottom: unset;  
-  height: auto; /* Auto-adjust to content */  
-  /* sticky footer fix end */  
-
-  margin-top: 1.5em; /* Reduced top margin */  
-  padding: 0.5em 1em; /* Reduced padding to decrease height */  
+  position: relative;  
+  height: auto;  
+  margin: 0;  
+  padding: 0.5em 0; /* Reduce top and bottom padding */  
   color: mix(#fff, $gray, 25%);  
-  -webkit-animation: intro 0.3s both;  
-          animation: intro 0.3s both;  
-  -webkit-animation-delay: 0.45s;  
-          animation-delay: 0.45s;  
   background-color: $lighter-gray;  
   border-top: 1px solid $light-gray;  
 
@@ -30,9 +19,8 @@
     @include clearfix;  
     margin-left: auto;  
     margin-right: auto;  
-    margin-top: 1em; /* Reduced top margin */  
     max-width: 100%;  
-    padding: 0.5em 1em; /* Reduced padding inside the footer */  
+    padding: 0; /* Remove unnecessary padding */  
 
     @include breakpoint($x-large) {  
       max-width: $x-large;  
@@ -59,6 +47,8 @@
 .page__footer-copyright {  
   font-family: $global-font-family;  
   font-size: $type-size-7;  
+  margin: 0; /* Remove extra margin */  
+  padding: 0;  
 }  
 
 .page__footer-follow {  
@@ -70,7 +60,7 @@
 
   li {  
     display: inline-block;  
-    padding: 2px 5px; /* Reduced padding for compact spacing */  
+    padding: 0; /* Remove extra padding */  
     font-family: $sans-serif-narrow;  
     font-size: $type-size-7; /* Slightly smaller text */  
     text-transform: uppercase;  
@@ -82,7 +72,7 @@
   }  
 
   a {  
-    padding-right: 10px;  
+    padding-right: 5px;  
     font-weight: bold;  
   }  
 
