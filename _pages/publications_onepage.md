@@ -7,7 +7,7 @@ author_profile: true
 
 More details on [Google Scholar](https://scholar.google.com/citations?hl=en&user=jnyjXYUAAAAJ&view_op=list_works).
 
-**Automatic coastline extraction through enhanced sea-land segmentation by modifying Standard U-Net**\
+**Automatic Coastline Extraction Through Enhanced Sea-Land Segmentation by Modifying Standard U-Net**\
 <u>Mohammad Aghdami-Nia</u>, Reza Shah-Hosseini, Amirhossein Rostami, Saeid Homayouni\
 *International Journal of Applied Earth Observation and Geoinformation (2022)*\
 [article](https://www.sciencedirect.com/science/article/pii/S0303243422001118) | 
@@ -39,7 +39,7 @@ Lin Xiong, John David Armston, Ralph Dubayah, Mikhail Urbazaev, Tiago de Conto, 
 **Sentinel-1 Polarization Comparison for Flood Segmentation Using Deep Learning**\
 Mohammadali Abbasi, Reza Shah-Hosseini, <u>Mohammad Aghdami-Niaa</u>\
 *International Electronic Conference on Geosciences (2023)*\
-[article](https://www.mdpi.com/2673-4931/29/1/16) | 
+[article](https://www.mdpi.com/2504-3900/87/1/14) | 
 [pdf](https://mo-agh.github.io/files/paper6.pdf)
 
 **Deep-Learning-Based Edge Detection for Improving Building Footprint Extraction from Satellite Images**\
