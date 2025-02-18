@@ -5,25 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-More details on [Google Scholar](https://scholar.google.ch/citations?user=bVZtKsQAAAAJ&hl=en).
+More details on [Google Scholar](https://scholar.google.com/citations?hl=en&user=jnyjXYUAAAAJ&view_op=list_works).
 
-**MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning**\
-Vishal Nedungadi, Ankit Kariryaa, Stefan Oehmcke, Serge Belongie, Christian Igel, <u>Nico Lang</u>\
-*European Conference on Computer Vision (ECCV 2024)*\
-[arxiv](https://arxiv.org/abs/2405.02771) |
-[project website](https://vishalned.github.io/mmearth/) |
-[code-data](https://github.com/vishalned/MMEarth-data) |
-[code-model](https://github.com/vishalned/MMEarth-train) 
+**Automatic coastline extraction through enhanced sea-land segmentation by modifying Standard U-Net**\
+<u>Mohammad Aghdami-Nia</u>, Reza Shah-Hosseini, Amirhossein Rostami, Saeid Homayouni\
+*International Journal of Applied Earth Observation and Geoinformation (2022)*\
+[article](https://www.sciencedirect.com/science/article/pii/S0303243422001118) | 
 
-**Labeled Data Selection for Category Discovery**\
-Bingchen Zhao, <u>Nico Lang</u>, Serge Belongie, Oisin Mac Aodha\
-*European Conference on Computer Vision (ECCV 2024)*\
-[arxiv](https://arxiv.org/abs/2406.04898)
+**Active Fire Detection from Landsat-8 Imagery Using Deep Multiple Kernel Learning**\
+Amirhossein Rostami, Reza Shah-Hosseini, Shabnam Asgari, Arastou Zarei, <u>Mohammad Aghdami-Nia</u>, Saeid Homayouni\
+*Remote Sensing (2022)*\
+[article](https://www.mdpi.com/2072-4292/14/4/992) | 
 
-**From Coarse to Fine-Grained Open-Set Recognition**\
-<u>Nico Lang</u>, Vésteinn Snæbjarnarson, Elijah Cole, Oisin Mac Aodha, Christian Igel, and Serge Belongie\
-*Computer Vision and Pattern Recognition (CVPR 2024)*\
-[project website](https://langnico.github.io/fine-grained-osr/)
+**Effect of Transferring Pre-Trained Weights on a Siamese Change Detection Network**\
+<u>Mohammad Aghdami-Nia</u>, Reza Shah-Hosseini, Mohammad Salmani\
+*ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences (2023)*\
+[article](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/19/2023/isprs-annals-X-4-W1-2022-19-2023.html) | 
 
 
 **A high-resolution canopy height model of the Earth**\
