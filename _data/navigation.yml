@@ -18,10 +18,10 @@ main:
   #   url: /portfolio/
 
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Collaborations"
-    url: /Collaborations/
+    url: /collaborations/
     
   # - title: "Blog Posts"
   #   url: /year-archive/
