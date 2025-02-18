@@ -25,10 +25,12 @@ body {
   width: 100%;
   margin-top: auto; /* Push footer to the bottom */
   color: mix(#fff, $gray, 25%);
-  background-color: $lighter-gray;
+  background-color: $lighter-gray; /* Ensure background color is applied */
   border-top: 1px solid $light-gray;
   padding: 0.5em 0; /* Reduced padding for a compact footer */
-  height: 60px; /* Set an explicit height */
+  height: auto; /* Let height adjust to content */
+  min-height: 60px; /* Set a minimum height */
+  overflow: visible; /* Ensure content is visible */
 }
 
   a {
@@ -46,7 +48,6 @@ body {
   .fal {
     color: mix(#fff, $gray, 25%);
   }
-}
 
 .page__footer-copyright {
   font-family: $global-font-family;
