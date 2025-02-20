@@ -5,6 +5,4 @@ permalink: /projects/
 author_profile: true
 ---
 
-## My Projects
-
-Here you can describe your projects or load them dynamically.
+This page showcases the projects I have led and collaborated on, along with their results.
