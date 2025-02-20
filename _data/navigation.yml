@@ -20,8 +20,8 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Collaborations"
-    url: /collaborations/
+  # - title: "Collaborations"
+  #   url: /collaborations/
     
   # - title: "Blog Posts"
   #   url: /year-archive/
