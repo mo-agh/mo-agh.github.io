@@ -21,3 +21,7 @@ In this project, I developed a machine learning framework to detect outliers in 
 
 
 ## Project 3:
+In this project, I created global maps of gaps in GEDI LiDAR data. The mapping was performed using Uber's H3 indexing system at resolutions 1 to 7, utilizing the GeoPandas and multiprocessing packages in Python. The following graphs show the global gap map and a zoomed-in view of an area in Africa. The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/GEDI_gap_mapping).
+
+![project3_!](/images/projects/project3_1.png)
+![project3_2](/images/projects/project3_2.png)
