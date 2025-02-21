@@ -40,3 +40,9 @@ In this project, I quantified forest canopy height changes in Gabon from 2016 to
 
 ![project5_1](/images/projects/project5.gif)
 
+
+## Project 6: LiDAR simulations from Airborne Laser Scanning (ALS)
+this..
+The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/ALS_simulation).
+
+![project6](/images/projects/project6.png)
