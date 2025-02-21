@@ -41,8 +41,7 @@ In this project, I quantified forest canopy height changes in Gabon from 2016 to
 ![project5_1](/images/projects/project5.gif)
 
 
-## Project 6: LiDAR simulations from Airborne Laser Scanning (ALS)
-this..
-The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/ALS_simulation).
+## Project 6: LiDAR simulations from Point Cloud Data
+This project focused on simulating GEDI LiDAR data using Airborne Laser Scanning (ALS) point cloud data. The simulator was set up with appropriate input parameters to generate 22-meter footprint waveforms. The following figure illustrates some of the results: on the left is the simulated GEDI waveform, which corresponds to the third footprint from the right on the map. The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/ALS_simulation).
 
 ![project6](/images/projects/project6.png)
