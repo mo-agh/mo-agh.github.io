@@ -29,4 +29,8 @@ In this project, I created global maps of gaps in GEDI LiDAR data. The mapping w
 
 ## Project 4: LiDAR Ground Detection Enhancement
 This project aimed to improve ground elevation estimation from GEDI LiDAR data. Ground elevations from LVIS LiDAR data were used as ground truth to train a convolutional neural network. The model incorporated NASADEM as ancillary data and reduced the RMSE of ground elevation estimates by 32 centimeters (8%). The following figure presents some of the model’s predictions, with grey, blue, and red lines representing GEDI, LVIS, and predicted ground elevations, respectively. The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/improved_LiDAR_ground_detection).
+
 ![project4](/images/projects/project4.png)
+
+
+## Project 5: Forest Canopy Height Change Detection
