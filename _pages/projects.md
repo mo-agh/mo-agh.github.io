@@ -45,3 +45,11 @@ In this project, I quantified forest canopy height changes in Gabon from 2016 to
 This project focused on simulating GEDI LiDAR data using Airborne Laser Scanning (ALS) point cloud data. The simulator was set up with appropriate input parameters to generate 22-meter footprint waveforms. The following figure illustrates some of the results: on the left is the simulated GEDI waveform, which corresponds to the third footprint from the right on the map. The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/ALS_simulation).
 
 ![project6](/images/projects/project6.png)
+
+
+## Project 7: RTM Surrogate Model
+In this project, I developed a framework to emulate the MODTRAN Radiative Transfer Model (RTM), which is widely used for atmospheric correction of optical satellite imagery. To achieve this, top-of-atmosphere (TOA) and bottom-of-atmosphere (BOA) spectroscopy data were used to train multiple machine learning models. The results showed that a deep learning autoencoder outperformed other models, achieving an R² of 98.23%, a 3.16% improvement over Random Forest. The following figure presents the visual results. The top left and top right panels display the best and worst estimation samples of the model, respectively. The bottom left panel illustrates error estimates, while the bottom right panel contains box plots of the performance metrics. This project resulted in a publication, which is available at [this link](https://www.mdpi.com/2673-4931/29/1/16).
+The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/RTM_surrogate_modeling).
+
+![project7](/images/projects/project7.png)
+
