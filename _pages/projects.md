@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-This page showcases the projects I have led and collaborated on, along with their results.
+This page showcases some of the projects I have led and collaborated on, along with their results.
 
 
 ## Project 1: GEDI and Landsat-8 Data Fustion Using Machine Learning
