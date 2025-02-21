@@ -34,3 +34,8 @@ This project aimed to improve ground elevation estimation from GEDI LiDAR data. 
 
 
 ## Project 5: Forest Canopy Height Change Detection
+This project ...
+The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/forest_canopy_height_change).
+
+![project5_1](/images/projects/project5.gif)
+![project5_2](/images/projects/project5.png)
