@@ -58,3 +58,10 @@ The codes for this project are available on my [GitHub repository](https://githu
 
 ![project7](/images/projects/project7.png)
 
+
+## Project 8: Automatic Coastline Extraction
+In this project, I developed a framework to automatically extract coastlines from segmented optical satellite images of coastal regions. The method relied on morphological image processing operations to accurately detect the sea-land edge and remove classification artifacts. The following figure illustrates an example use of this framework to extract coastlines on Landsat-8 time series images of the Caspian Sea in three regions. This project resulted in a publication, which is available at [this link](https://www.sciencedirect.com/science/article/pii/S0303243422001118).  
+The codes for this project are available on my [GitHub repository](https://github.com/mo-agh/sea-land-segmentation-coastline-extraction).
+
+![project8](/images/projects/project8.png)
+
