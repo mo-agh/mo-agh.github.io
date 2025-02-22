@@ -72,4 +72,23 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  // Sidebar moves up when the footer appears
+  var sidebar = $(".sidebar");
+  var footer = $(".page__footer");
+
+  function adjustSidebar() {
+    var windowBottom = $(window).scrollTop() + $(window).height();
+    var footerTop = footer.offset().top;
+
+    if (windowBottom >= footerTop) {
+      var overlap = windowBottom - footerTop;
+      sidebar.css("transform", "translateY(-" + overlap + "px)");
+    } else {
+      sidebar.css("transform", "translateY(0)");
+    }
+  }
+
+  $(window).on("scroll resize", adjustSidebar);
+  adjustSidebar();
+
 });
