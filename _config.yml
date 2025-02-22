@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mohammad Aghdami-Nia"
+title                    : "Mohammad Aghdami"
 title_separator          : "-"
-name                     : &name "Mohammad Aghdami-Nia"
-description              : &description "Mohammad Aghdami-Nia's personal website"
+name                     : &name "Mohammad Aghdami"
+description              : &description "Mohammad Aghdami's personal website"
 url                      : https://mo-agh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mo-agh/mo-agh.github.io"
@@ -23,7 +23,7 @@ repository               : "mo-agh/mo-agh.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Mohammad Aghdami-Nia"
+  name             : "Mohammad Aghdami"
   pronouns         : "he/him"  
   bio              : "Graduate Research Assistant in the GEDI Science Team at the University of Maryland."
   location         : "Maryland, USA"
