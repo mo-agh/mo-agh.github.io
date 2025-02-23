@@ -14,5 +14,4 @@ My name is Mohammad Aghdami, and I am a graduate research assistant with NASA's 
 I specialize in machine learning and remote sensing data processing for geospatial analysis, earth observation, and change detection. My primary tools are Python and QGIS, which I use for data processing, analysis, and visualization. I have a strong interest in deep learning and big data, and I have applied these technologies to several projects. Currently, I am leading a project that uses LiDAR data to quantify changes in forest canopy height over time.
 
 In my free time, I enjoy hiking and outdoor activities. I also play the guitar and enjoy making music with others.
-
 # [Curriculum Vitae](/files/CV_v2.png)
