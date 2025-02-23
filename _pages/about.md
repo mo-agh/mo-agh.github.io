@@ -7,17 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome to my website!
 
+My name is Mohammad Aghdami, and I am a graduate research assistant with NASA's GEDI science team at the University of Maryland, College Park. Previously, I was a research assistant at the University of Tehran, Iran, where I majored in remote sensing engineering. Over the past five years, I have worked as a geospatial data scientist, contributing to various projects in which I have both led and collaborated. Some of these projects are listed on the [projects page of my website](https://mo-agh.github.io/projects/), along with their outcomes. The tools and scripts I developed for these projects are open-source and available on my [GitHub](https://github.com/mo-agh).
 
+I specialize in machine learning and remote sensing data processing for geospatial analysis, earth observation, and change detection. My primary tools are Python and QGIS, which I use for data processing, analysis, and visualization. I have a strong interest in deep learning and big data, and I have applied these technologies to several projects. Currently, I am leading a project that uses LiDAR data to quantify changes in forest canopy height over time.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+In my free time, I enjoy hiking and outdoor activities. I also play the guitar and enjoy making music with others.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## [Curriculum Vitae](/files/CV_v2.png)
