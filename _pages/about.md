@@ -15,4 +15,4 @@ I specialize in machine learning and remote sensing data processing for geospati
 
 In my free time, I enjoy hiking and outdoor activities. I also play the guitar and enjoy making music with others.
 
-## [Curriculum Vitae](/files/CV_v2.png)
+# [Curriculum Vitae](/files/CV_v2.png)
