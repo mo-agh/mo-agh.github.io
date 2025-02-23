@@ -77,14 +77,19 @@ $(document).ready(function(){
   var footer = $(".page__footer");
 
   function adjustSidebar() {
+    if (sidebar.length === 0 || footer.length === 0) return; // Ensure elements exist
+
     var windowBottom = $(window).scrollTop() + $(window).height();
     var footerTop = footer.offset().top;
-
+    var sidebarHeight = sidebar.outerHeight();
+    
     if (windowBottom >= footerTop) {
       var overlap = windowBottom - footerTop;
-      sidebar.css("transform", "translateY(-" + overlap + "px)");
+      sidebar.css("position", "relative");
+      sidebar.css("bottom", overlap + "px");
     } else {
-      sidebar.css("transform", "translateY(0)");
+      sidebar.css("position", "sticky");
+      sidebar.css("bottom", "0");
     }
   }
 
