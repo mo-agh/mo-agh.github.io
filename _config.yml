@@ -22,7 +22,7 @@ repository               : "mo-agh/mo-agh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile_new.png"
   name             : "Mohammad Aghdami"
   pronouns         : "he/him"  
   bio              : "Graduate Research Assistant in the GEDI Science Team at the University of Maryland."
